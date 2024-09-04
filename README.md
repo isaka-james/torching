@@ -1,3 +1,6 @@
+<p>
+  <img src="https://komarev.com/ghpvc/?username=isaka-torching&label=Torching&color=0e75b6&style=flat" alt="since 04 Sep,2024" />
+</p>
 
 #### Overview
 Torching is a web application that enhances images with a dynamic lighting effect. Inspired by the 404 error page on Unsplash website, Torching creates a realistic torchlight effect over images when the user hovers their mouse, adding a unique interactive element to image viewing.
